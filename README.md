@@ -10,3 +10,4 @@ this is a second line
 this is bound to cause trouble.
 
 Hi, this is a new line
+adding new line
